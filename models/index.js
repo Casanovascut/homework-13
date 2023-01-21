@@ -27,6 +27,7 @@ Tag.belongsToMany(Product,{
   foreignKey:'tag_id',
   through: ProductTag
 })
+//TODO: tag belongToMany Users (through ProductTag)
 
 module.exports = {
   Product,
