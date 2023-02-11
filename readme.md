@@ -31,6 +31,10 @@ intstall sequelize to interact with MySQL and express.js
 
 
 
+https://user-images.githubusercontent.com/112491490/218261359-16f333e1-744e-4a89-9a65-114bb0ab3e72.mp4
+
+
+
 ## contributing
 open
 
